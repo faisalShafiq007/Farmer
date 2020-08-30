@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_wheat"
+        android:icon="@drawable/flour"
+        android:title="@string/wheat" />
+
+    <item
+        android:id="@+id/navigation_rice"
+        android:icon="@drawable/rice"
+        android:title="@string/rice" />
+
+    <item
+        android:id="@+id/navigation_cotton"
+        android:icon="@drawable/cotton"
+        android:title="@string/cotton" />
+    <item
+        android:id="@+id/navigation_corn"
+        android:icon="@drawable/corn"
+        android:title="@string/corn" />
+    <item
+        android:id="@+id/navigation_sugarcane"
+        android:icon="@drawable/sugarcane"
+        android:title="@string/sugarcane" />
+
+</menu>

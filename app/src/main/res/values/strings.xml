@@ -1,0 +1,214 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<string name="cultivation">Season of cultivation</string>
+    <string name="hrvest">Harvest Season</string>
+    <string name="water">Water</string>
+    <string name="color">#228B22</string>
+    <string name="title_activity_signup">Sign in</string>
+    <string name="open">none</string>
+    <string name="close">none</string>
+    <string name="hello">A crop is a plant or animal\nproduct that can \nbe grown and \nharvested extensively for \nprofit or subsistence.Crop may \nrefer either to the harvested \nparts or to the harvest \nin a more refined state.\nMost crops are cultivated in agriculture\n. A crop may include \nmacroscopic fungus, or alga.</string>
+    <string name="title_activity_assiatant">assiatant</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+<string name="blightcure">Prune or stake plants to improve air circulation and reduce fungal problems.
+Make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut.
+Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation.
+Drip irrigation and soaker hoses can be used to help keep the foliage dry.
+For best control, apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat every 7-10 days for as long as needed.
+Containing copper and pyrethrins, Bonide® Garden Dust is a safe, one-step control for many insect attacks and fungal problems. For best results, cover both the tops and undersides of leaves with a thin uniform film or dust. Depending on foliage density, 10 oz will cover 625 sq ft. Repeat applications every 7-10 days, as needed.
+SERENADE Garden is a broad spectrum, preventative bio-fungicide recommended for the control or suppression of many important plant diseases. For best results, treat prior to foliar disease development or at the first sign of infection. Repeat at 7-day intervals or as needed.
+Remove and destroy all garden debris after harvest and practice crop rotation the following year.
+Burn or bag infected plant parts. Do NOT compost.
+</string>
+    <string name="asteryellowcure">
+        1. Remove diseased plants. Once a plant is infected with aster yellows, it is a lost cause since the disease is incurable. Early diagnosis and prompt removal of infected plants may help reduce the spread of the disease. Although the disease itself is not fatal to the plant, its presence makes it impossible for a plant to fulfill its intended role in the garden.
+
+2. Plant less susceptible plant species. Controlling aster yellows is difficult. As long as infected leafhoppers are around, they can infect plants. A practical way to avoid having problems with this disease is to grow plants that are not as susceptible to aster yellows. Verbena, salvia, nicotiana, geranium, cockscomb, and impatiens are among the least susceptible plants.
+
+3. Control insects. Vegetable growers may protect susceptible crops by using the mesh fabrics that keep leafhoppers and other insects away from the plants. Some growers put strips of aluminum foil between rows because bright reflections of sunlight confuse the leafhoppers.
+
+4. Control weeds. Remove weeds in your lawn, garden, and surrounding areas, including plantain and dandelion that may harbor the disease.
+    </string>
+    <string name="cankercure">
+        Prune flowering trees during blooming when wounds heal fastest.
+Remove wilted or dead limbs well below infected areas.
+Avoid pruning in early spring and fall when bacteria are most active.
+Treat all pruning cuts immediately with Tanglefoot® Tree Pruning Sealer and make sure to disinfect your pruning equipment — one part bleach to 4 parts water — after each cut.
+If using string trimmers around the base of trees avoid damaging bark with breathable Tree Wrap to prevent infection.
+Brush bark with white latex paint diluted with water to reduce bark-damaging temperature fluctuations.
+Research has shown that copper fungicides have some success against this stone fruit problem. However, results are inconsistent. We recommend using it as one part of a total management program.
+Remove weeds and grass from around the base of young trees to improve air circulation and keep the trunk and crown dry.
+Organocide Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of diseases on ornamentals, turf, fruit and more. Mix 1/3 to 3/4 oz per gallon of water and paint or spray over pruning wounds and surrounding areas.
+
+    </string>
+<string name="crowgallcure">
+    Select resistant cultivars when possible and purchase plants from a reputable nursery.
+Do not buy plants that shows signs of swelling or galling.
+When caring for susceptible plants, avoid injury or pruning wounds that may come in contact with the soil.
+Use Tree Wrap to protect against string trimmer damage and keep your garden tools clean.
+Provide winter protection with natural burlap so bark does not crack.
+In many cases, existing galls can be removed with a sharp pruning knife. Destroy the infected plant tissue and treat the wound with pruning sealer. If the plant does not recover, remove and destroy it.
+Tip: To get rid of this problem on roses, remove the infested plant and prune out gall tissue. Soak the entire root system and damaged areas for 15 minutes in a solution of 2 level Tbsp of Actinovate per 2-1/2 gallons of water. Replant in healthy soil and apply 1/2 Tbsp per 2-1/2 gallons of water as a foliar spray at weekly intervals.
+</string>
+    <string name="bacterialwiltcure">
+        Control of bacterial wilt depends on control of the cucumber beetle vectors. In areas where the disease is a problem, the use of a systemic, soil-applied insecticide and well-timed foliar application of contact insecticides are prerequisite to profitable melon and cucumber production.
+
+The future holds some promise for the development of wilt-resistant cucumber cultivars that limit the multiplication and movement of the bacteria within the host. No such resistance has been reported in melon.
+
+Roguing wilted plants and the use of trap crops have been suggested to slow the progress of the disease, they are of no practical value unless appropriate insecticide programs are implemented. Bait formulations, which consist of volatile attractants, a feeding stimulant, and a small amount of insecticide, are being developed and show promise.
+    </string>
+    <string name="fertilizer">Fertilizer</string>
+    <string name="camera">Camera</string>
+    <string name="process">process</string>
+    <string name="get_from_gallery">get from gallery</string>
+    <string name="whaeat">Wheat</string>
+    <string name="riace">Rice</string>
+    <string name="cotaton">Cotton</string>
+    <string name="coarn">Corn</string>
+    <string name="sugaarcane">Sugarcane</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="accoaunt">Account</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="location">Location</string>
+    <string name="rice">Rice</string>
+    <string name="wheat">Wheat</string>
+    <string name="sugarcane">Sugarcane</string>
+    <string name="corn">Corn</string>
+    <string name="cotton">Cotton</string>
+    <string name="profilen">PROFILE</string>
+    <string name="enter_naumber">Enter Number</string>
+    <string name="enter_geander">Enter Gender</string>
+    <string name="enter_useraname">Enter username</string>
+    <string name="enter_citay">Enter city</string>
+    <string name="register">Register</string>
+    <string name="account">Account</string>
+    <string name="personal">Personal</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="gender">Gender</string>
+    <string name="specialized">Specialized</string>
+    <string name="settingsn">SETTINGS</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_gender">Enter Gender</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_city">Enter city</string>
+    <string name="update_settings">Update Settings</string>
+    <string name="enter_emaail">Enter Email</string>
+    <string name="enter_passaword">Enter Password</string>
+    <string name="please_click_to_sign_up">Please Click to Sign-Up</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="signin">Signin</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_passaord">Enter Password</string>
+    <string name="please_click_to_sign_in">Please Click to Sign-IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="signup">Signup</string>
+    <string name="farmer">Farmer</string>
+    <string name="namex">name</string>
+    <string name="appname">Farmer</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="farmers">Farmers</string>
+    <string name="field_kings">Field Kings</string>
+    <string name="crop_assistant" >Crop Assistant</string>
+    <string name="weather_report">Weather Report</string>
+    <array name="language">
+        <item >English</item>
+        <item >Urdu</item>
+    </array>
+
+    <string name="Anthracnosecure">Choose resistant plant varieties when possible and use western grown seeds which have not been exposed to the disease.
+If this fungal problem is common, do NOT save your own seed from plantings.
+To avoid spreading the disease, keep out of gardens when plants are wet and make sure to disinfect all garden tools (one part bleach to 4 parts water) after use.
+Do not compost infected leaves, fruit or stems and thoroughly clean up garden areas in the fall, after harvest, to reduce over wintering sites for the fungal spores.
+Safely treat most fungal and bacterial diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.
+Liquid copper sprays and sulfur powders should be applied weekly, starting when foliage begins to develop in the early spring and continuing throughout the growing season. Spray early in the day, and avoid applications during hot weather. Seeds may also be treated prior to planting.
+Neem oil spray is an organic, multi-purpose fungicide/insecticide/miticide that kills eggs, larvae and adult stages of insects as well as prevents fungal attack on plants. Apply early, at the first sign of spring budding, every 7-14 days as a preventative measure or on a 7-day schedule until existing problems are eliminated.</string>
+    <string name="rustcure">Select rust-resistant plant varieties when available. Pick off and destroy infected leaves and frequently rake under plants to remove all fallen debris.         Water in the early morning hours — avoiding overhead sprinklers — to give plants time to dry out during the day. Drip irrigation and soaker hoses can be used to help keep leaves dry.         Use a slow-release, organic fertilizer on crops and avoid excess nitrogen. Soft, leafy, new growth is most susceptible.         Apply copper sprays or sulfur powders to prevent infection of susceptible plants. For best results, apply early or at first sign of disease. Spray all plant parts thoroughly and repeat every 7-10 days up to the day of harvest.         Effectively treat fungal diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis and is approved for organic gardening. Best of all, it’s safe to use — you can treat and pick crops the same day!         Containing sulfur and pyrethrins, Bonide® Orchard Spray is a safe, one-hit concentrate for insect attacks and fungal problems. For best results, apply as a protective spray (2.5 oz/ gallon) early in the season. If disease, insects or wet weather are present, mix 5 oz in one gallon of water. Thoroughly spray all parts of the plant, especially new shoots.         Prune or stake plants and remove weeds to improve air circulation. Make sure to disinfect your pruning tools (one part bleach to 4 parts water) after each cut.         Use a thick layer of mulch or organic compost to cover the soil after you have raked and cleaned it well. Mulch will prevent the disease spores from splashing back up onto the leaves.         Burn or bag infected plants after the growing season (see Fall Garden Cleanup).</string>
+    <string name="a">October-November</string>
+    <string name="s">April-May</string>
+    <string name="dd">Feb</string>
+    <string name="ss">Nov-December</string>
+    <string name="sss">every week</string>
+    <string name="sa">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="ssad">According to soil test</string>
+    <string name="fff">June/Jan</string>
+    <string name="dsd">October/June</string>
+    <string name="sfsd">35/40 days</string>
+    <string name="dsfds">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="sdfs">According to soil test</string>
+    <string name="sadas">May</string>
+    <string name="q">Till December</string>
+    <string name="w">35/40 days</string>
+    <string name="e">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="ee">According to soil test</string>
+    <string name="r">May-July</string>
+    <string name="t">August-October</string>
+    <string name="y">Every week</string>
+    <string name="ty">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="rwe">According to soil test</string>
+    <string name="wqeq">October-November</string>
+    <string name="qweq">April-May</string>
+    <string name="qewe">4 to 5 days</string>
+    <string name="qweqwq">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="wqewq">According to soil test</string>
+    <string name="gs">4 to 5 days</string>
+    <string name="m">2 DAP /2 Urea / 1 Phosporus</string>
+    <string name="k">According to soil test</string>
+    <string name="oo">Rice:</string>
+    <string name="eew">Rupees</string>
+    <string name="qwewq">Wheat</string>
+    <string name="tyy">Cotton</string>
+    <string name="uiui">Corn</string>
+    <string name="ewrewr">Sugarcane</string>
+    <string name="qwewqq">Wheat:</string>
+    <string name="eee">Rupees</string>
+    <string name="tttt">Rice</string>
+    <string name="yyy">Cotton</string>
+    <string name="uuu">Corn</string>
+    <string name="iii">Sugarcane</string>
+    <string name="iio">Cotton:</string>
+    <string name="rwwe">Rupees</string>
+    <string name="qwewqe">Rice</string>
+    <string name="asda">Wheat</string>
+    <string name="asdas">Corn</string>
+    <string name="ghng">Sugarcane</string>
+    <string name="werewr">Corn:</string>
+    <string name="rtyrt">Rupees</string>
+    <string name="dsfdsf">Cotton</string>
+    <string name="dfgdf">Rice</string>
+    <string name="rtytr">Wheat</string>
+    <string name="wqewqe">Sugarcane</string>
+    <string name="dfds">Sugarcane:</string>
+    <string name="hnhn">Rupees</string>
+    <string name="yuy">Cotton</string>
+    <string name="iki">Rice</string>
+    <string name="oko">Wheat</string>
+    <string name="plp">Corn</string>
+    <string name="sadasd">Name:</string>
+    <string name="ujujuju">City:</string>
+    <string name="blossomendcure">Choose resistant vegetable varieties whenever possible. Prevent problems by keeping soil evenly moist and by foliar spraying plants with a kelp or calcium solution. Adding high levels of calcium — bone meal, oyster shell or gypsum — to the soil at planting time usually prevents this problem from developing. A layer of mulch (straw, compost, grass ) will help conserve soil moisture during the hot, dry days of July and August. Foliar applications of Liquid Calcium 5% (1-2 Tbsp/ gallon of water) can be used to correct or prevent deficiencies of this essential nutrient. For best results, combine with a natural surfactant to increase adhesion and spray leaves to the point of run-off. Mulching plants will help conserve moisture and provide a more uniform water supply. Avoid using high nitrogen fertilizers which accelerate vegetative growth and reduce the uptake of calcium by plants. A large selection of balanced organic fertilizers are available at Planet Natural.</string>
+    <string name="yellowmotlecure">There is no treatment other than to prune out affected branches. Since the virus usually has little or no effect on vigour or flowering, and poses no risk to plants other than camellias, it is often tolerated.</string>
+    <string name="potatoscabcure">The following control measures have all been proven effective against scab in potatoes. However, in most cases a combination of these techniques will be required.          Plant certified, disease-free seed potatoes and resistant varieties whenever possible. We suggest using the russet-skinned varieties since they have more resistance to the disease.         Rotate root crops by planting in alternate locations to limit the disease.         Potato scab is most prevalent in dry, alkaline soils. Decrease soil pH by adding elemental sulfur. The disease is controlled or greatly suppressed at soil pH levels of 5.2 or lower. Simple and affordable soil test kits are available to check pH often.         Tilling in a cover crop — mustard, canola, alfalfa — prior to planting potatoes will help reduce infection.         Some growers report success spreading agricultural gypsum prior to planting at a rate of 25 lbs per 2,000 sq ft. This will raise the calcium content of your soil and help build strong cell walls in plants. (Note: S. scabies disrupts the development of cell walls resulting in lesions.)         Adequate irrigation during early tuber development may have a dramatic effect on common scab infection, but you will need to keep the soil damp for 2-6 weeks. This technique is effective because high soil moisture promotes growth of a bacteria that can crowd out S. scabies on the potato surface.         Do NOT overwater.         Tip: If you will be planting in soil where tubers have not been grown before,          or where the area is known to be scab-free, treat          seed potatoes with sulfur fungicides to reduce scab introduction.</string>
+    <string name="downeymildewcure">Prune or stake plants and remove any weeds to improve air circulation.         Water in the early morning hours, or use a soaker hose, to give the plants time to dry out during the day.         Keep the ground under infected plants clean during the fall and winter to prevent the disease from spreading.         Remove and destroy any plants with serious infection (see Fall Garden Cleanup).         Choose resistant varieties whenever possible.         Downy mildew is comparatively easy to control          on most plants when the foliage and fruit are kept protected by a copper          spray. Begin treatments two weeks before disease normally appears or when weather         forecasts predict a long period of wet weather. Alternatively, begin treatment when disease          first appears, and repeat at 7-10 day intervals for as long as needed.         The systemic action of Organocide. Plant Doctor moves throughout the entire plant to          treat common disease problems. Mix 3/4 tsp per gallon of water and apply to foliage. Spray          to run-off, as required for disease control.</string>
+    <string name="brownrotcure">Choose resistant varieties whenever possible.         Prompt removal and destruction of infected plant parts helps breaks the life cycle of the disease in individual trees and small orchards, and may be sufficient to keep brown rot below damaging levels.         It is important to rake up and remove any fallen fruit or debris from under trees.         Prune trees occasionally to improve air circulation. Also, water from below to keep from wetting blossoms, foliage and fruit.         Use Tanglefoot® Pruning Sealer to seal all cuts and wounds and protect against insects and disease organisms.         Ready to use copper fungicides or sulfur powders should be applied weekly to infected trees starting when the blossoms are just beginning to open and continuing throughout the growing season. If at all possible, time applications so that 12 hours of dry weather follows application.         Organocide® Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of diseases on ornamentals, turf, fruit and more. Apply as a foliar spray (1 tsp/ gallon of water) to combat this destructive stone fruit problem.         Containing sulfur and pyrethrins, Bonide® Orchard Spra         y is a safe, one-hit concentrate for insect attacks and funga         l problems. For best results, apply as a protective spray (2.5 oz/ gallon) early in the         season. If disease, insects or wet weather are present, mix 5 oz in one gallon of water.         Thoroughly spray all parts of the plant, especially new shoots.</string>
+    <string name="leafspotcure">When selecting fruit trees, choose resistant varieties if possible.         Keep the soil under the tree clean and rake up fallen fruit.         Use a thick layer of mulch to cover the soil after you have raked and cleaned it well. Mulch will reduce weeds and prevent the disease pathogen from splashing back up onto the leaves.         Prune or stake plants to improve air circulation. Make sure to disinfect your pruning equipment (one part bleach to 4 parts water) after each cut.         Leaf spot among vegetables is most often introduced through infected seed or transplants. Make sure your seeds and transplants are from leaf spot-free stock.         There is no cure for plants infected with bacterial leaf spot. Preventive, organic measures          include:          Spraying with a baking soda solution (a tablespoon of baking soda, 2 1/2 tablespoons of vegetable oil, a teaspoon of liquid soap, not detergent, to one gallon of water), or neem oil (do not use when pollinating insects including bees or other beneficial insects are present). Baking soda may burn some plant leaves. Spray only a few and then check for a reaction before applying applications every two weeks.         Apply sulfur sprays or copper-based fungicides weekly at first sign of disease to prevent its spread. These organic fungicides will not kill leaf spot, but prevent the spores from germinating.         Safely treat most fungal and bacterial diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.         Containing copper and pyrethrins, Bonide® Garden Dust is a safe, one-step control for many         insect attacks and fungal problems. For best results, cover both the tops and undersides of          leaves with a thin uniform film or dust. Depending on foliage density, 10 oz will cover 625          sq ft. Repeat applications every 7-10 days, as needed.</string>
+    <string name="blackknotcure">Inspect your trees carefully for first signs of the disease. This is best done in winter, when leaves are absent, but should be continued as well throughout the growing season. Look for cracks, discoloration, swelling, or other first signs of infection. Check carefully around twig and leaf axils.         Remove any knots that are found. This is best done during winter when spore production is down. Cut well-past the galls, four to eight inches, to ensure all the infection and its spores are removed. Larger branches with established knots should be removed entirely. Use a pruning knife or chisel to remove galls on trunks and large branches, cutting down to the wood and out to at least an inch beyond the infection.         Continue to inspect for and remove galls as the season progresses.         Take care not to spread spores when pruning trees with black knot. Don’t allow twigs or other cuttings to fall to the ground where the spores could survive.         Dispose of infected stems and branches by burying or, where allowed, burning. Small cuttings can be stuffed in trash bags and hauled away. Do not compost any infected cuttings unless your heap has an internal temperature of 160 degrees (not many do).         Clean pruning tools as you use them with a solution of 1/2 cup bleach to a gallon of water. Wipe tools between cuts and leave your pruning blades in the solution for three to six minutes when finished. Or use a safe, commercial fungicide cleaner such as Physan 20.         The Alberta Ministry of Agriculture and Forestry has a detailed guide to pruning and disposing of infected trimmings at their website.         Fungicides can offer significant protection against black knot, but are unlikely to be effective if pruning and sanitation are ignored. Organic gardeners will want to avoid all but OMRI listed fungicides.         Spraying trees with NEEM oil, a natural fungicide that controls leaf spot, rust, scab, and other tree fungus, can help inhibit the spread of black knot (it will not kill fungus that is already present). Spray trees per instructions just ahead of leaf and blossom emergence and, if possible, ahead of rain. Continue on a 7-10-day cycle until weather dries. Use of other fungicides can also discourage spores from germination. But few are specifically indicated for use on already infected trees.         Spraying lime sulfur on trees during the dormant period is said to prevent the production of spores. Copper sprays applied during dormancy may also inhibit spore production.         Take out wild cherry and plum trees around your property. They harbor the disease and release spores that are easily carried to your susceptible nursery trees.         When planting new trees, place them away and upwind from established or wild         prune and cherry trees</string>
+    <string name="clubrootcure">Fungicides will NOT treat this soil-dwelling micro-organism.         Choose resistant cultivars when possible.         Try to prevent the occurrence of this disease by keeping a clean garden and rotating crops.         Keep in mind that the disease spores can persist in the soil for up to 20 years. If club root is present you may want to solarize the soil.*         Control susceptible weeds — mustard, radish, shepherd’s purse — that may be infected to reduce potential buildup of the disease.         Carefully remove infected plants and sterilize garden tools (one part bleach to 4 parts water) after use.         Raise your soil’s pH to a more alkaline 7.2 by mixing oyster shell or dolomite lime into your garden in the fall. Simple and affordable soil test kits are available to check pH often.         * To solarize your soil, you must leave a clear plastic tarp          on the soil surface for 4-6 weeks during the hottest part of the year. Soil solarization         will reduce or eliminate many soil inhabiting pests including nematodes, fungi, insects,         weeds and weed seeds.</string>
+    <string name="graymoldcure">Prune or stake plants to improve air circulation between plants. Make sure to disinfect your pruning equipment (one part bleach to 4 parts water) after each cut.         If growing indoors use a small clip-on fan to improve air flow.         Keep the soil under plants clean and rake up any fallen debris.         Add a good amount of organic compost or mulch under plants. Mulches will prevent the fungal spores from splashing back up onto flowers and leaves.         Water in the early morning hours, or use a soaker hose, to give plants time to dry out during the day.         Do not compost infected plant leaves or stems, and thoroughly clean up garden areas in the fall to reduce over wintering sites for the fungal spores.         Copper-Soap fungicides will help by protecting plants from disease spores. Apply at the start of flowering and continue every 7-10 days until harvest. Fungicidal sprays are especially warranted when weather forecasts predict a long period of cool, wet weather.         Safely treat most fungal diseases, including Botrytis blight, with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.         Mycostop, a biological fungicide approved for organic use, has shown suppression of the disease. Direct spray (5 gm/ 50 liters of water) to susceptible leaves, flowers and fruits to point of run-off. Apply every 2-3 weeks, or as needed depending on disease pressure.         Green Cure Fungicide contains a patented formula of potassium bicarbonate —         commonly used in food products — that kills many plant diseases on contact and provides         up to 2 weeks of residual protection. At first sign of disease, mix 1-2 Tbsp/ gallon of water         and apply to all exposed surfaces of the plant. For best protection, repeat at 1-2 week          intervals until conditions are no longer favorable for disease development.</string>
+    <string name="applescabcure">Choose resistant varieties when possible.         Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring.         Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.         Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.         For best control, spray liquid copper soap early, two weeks before symptoms normally appear. Alternatively, begin applications when disease first appears, and repeat at 7 to 10 day intervals up to blossom drop.         Bonide® Sulfur Plant Fungicide, a finely ground wettable powder, is used in pre-blossom applications and must go on before rainy or spore discharge periods. Apply from pre-pink through cover (2 Tbsp/ gallon of water), or use in cover sprays up to the day of harvest.         Organocide® Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of diseases on ornamentals, turf, fruit and more. Apply as a soil drench or foliar spray (3-4 tsp/ gallon of water) to prevent and attack fungal problems.         Containing sulfur and pyrethrins, Bonide® Orchard Spray is a safe, one-hit concentrate          for insect attacks and fungal problems. For best results, apply as a protective spray          (2.5 oz/ gallon) early in the season. If disease, insects or wet weather are present, mix 5         oz in one gallon of water. Thoroughly spray all parts of the plant, especially new shoots.</string>
+    <string name="leafcurlcure">Select resistant varieties whenever possible.         Leaf curl can be controlled by applying sulfur or copper-based fungicides that are labeled for use on peaches and nectarines. Spray the entire tree after 90% of the leaves have dropped in the fall and again in the early spring, just before the buds open. For best results, trees should be sprayed to the point of runoff or until they start dripping.         Containing copper and pyrethrins, Bonide® Garden Dust is a safe, one-step control for many insect attacks and fungal problems. For best results, cover both the tops and undersides of leaves with a thin uniform film or dust. Depending on foliage density, 10 oz will cover 625 sq ft. Repeat applications every 7-10 days, as needed.         Keep the ground beneath the trees raked up and clean, especially during winter months.         Prune and destroy infected plant parts as they appear.         If disease problems are severe, maintain tree health and vigor by cutting back          more fruit than normal, watering regularly (avoiding wetting the leaves if possible) and          apply an organic fertilizers high in nitrogen.</string>
+    <string name="cedarapplerustcure">Choose resistant cultivars when available.         Rake up and dispose of fallen leaves and other debris from under trees.         Remove galls from infected junipers. In some cases, juniper plants should be removed entirely.         Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary.         On juniper, rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.         Safely treat most fungal and bacterial diseases with SERENADE Garden. This broad spectrum bio-fungicide uses a patented strain of Bacillus subtilis that is registered for organic use. Best of all, SERENADE is completely non-toxic to honey bees and beneficial insects.         Containing sulfur and pyrethrins, Bonide® Orchard Spray is a safe, one-hit concentrate for insect attacks and fungal problems. For best results, apply as a protective spray (2.5 oz/ gallon) early in the season. If disease, insects or wet weather are present, mix 5 oz in one gallon of water. Thoroughly spray all parts of the plant, especially new shoots.         Contact your local Agricultural Extension office for other possible solutions in your area.</string>
+    <string name="powderymildewcure">The following control measures have all been proven effective against scab in potatoes. However, in most cases a combination of these techniques will be required.          Plant certified, disease-free seed potatoes and resistant varieties whenever possible. We suggest using the russet-skinned varieties since they have more resistance to the disease.         Rotate root crops by planting in alternate locations to limit the disease.         Potato scab is most prevalent in dry, alkaline soils. Decrease soil pH by adding elemental sulfur. The disease is controlled or greatly suppressed at soil pH levels of 5.2 or lower. Simple and affordable soil test kits are available to check pH often.         Tilling in a cover crop — mustard, canola, alfalfa — prior to planting potatoes will help reduce infection.         Some growers report success spreading agricultural gypsum prior to planting at a rate of 25 lbs per 2,000 sq ft. This will raise the calcium content of your soil and help build strong cell walls in plants. (Note: S. scabies disrupts the development of cell walls resulting in lesions.)         Adequate irrigation during early tuber development may have a dramatic effect on common scab infection, but you will need to keep the soil damp for 2-6 weeks. This technique is effective because high soil moisture promotes growth of a bacteria that can crowd out S. scabies on the potato surface.         Do NOT overwater.         Tip: If you will be planting in soil where tubers have not been grown before, or          where the area is known to be scab-free, treat seed potatoes with sulfur fungicides to          reduce scab introduction.</string>
+    <string name="cornsmutcure">Choose the best resistant varieties, such as silver king, fantasia, brilliant and seneca sensation, when available.         In backyard gardens, collecting and destroying galls before the dark fungal spores are released is suggested. This will limit the number of available fungal spores and help break the disease-cycle.         Reduce infection points by avoiding injury of roots, stalks and leaves during cultivation.         Prevent damage from insects, such as corn borers, with Monterey® Garden Insect Spray or other organic insecticide.         Fungicides are NOT an effective control option since the disease is so widespread and can persist in the soil for years.         High nitrogen fertilizers may increase the severity of the disease — use a balanced organic fertilizer in the vegetable garden.         Remove and destroy all garden debris after harvest and practice crop rotation the following year.         Bag or burn infected plant parts — do NOT compost.</string>
+    <string name="mosaicviruscure">There are no cures for viral diseases such as mosaic once a plant is infected. As a result, every effort should be made to prevent the disease from entering your garden.         Fungicides will NOT treat this viral disease.         Plant resistant varieties when available or purchase transplants from a reputable source.         Do NOT save seed from infected crops.         Spot treat with least-toxic, natural pest control products, such as Safer Soap, Bon-Neem and diatomaceous earth, to reduce the number of disease carrying insects.         Harvest-Guard® row cover will help keep insect pests off vulnerable crops/ transplants and should be installed until bloom.         Remove all perennial weeds, using least-toxic herbicides, within 100 yards of your garden plot.         The virus can be spread through human activity, tools and equipment. Frequently wash your hands and disinfect garden tools, stakes, ties, pots, greenhouse benches, etc. (one part bleach to 4 parts water) to reduce the risk of contamination.         Avoid working in the garden during damp conditions (viruses are easily spread when plants are wet).         Avoid using tobacco around susceptible plants. Cigarettes and other tobacco products may be infected and can spread the virus.         Remove and destroy all infected plants (see Fall Garden Cleanup). Do NOT compost.</string>
+    <string name="dampingoffcure">When starting seeds indoors, use good organic potting soil or sterilize your own potting soil in an oven.         Make sure your seed starter mix is light and fast-draining.         Plant seedlings so that the soil surface is near the top of the container to insure proper air circulation.         Sow seeds thinly to prevent over crowding which can lead to humid, moist conditions.         Seedling trays that provide water from below are preferable to overhead watering.         Never water past noon so that the soil surface and the plants are dry by evening.         Avoid overwatering tender seedlings.         Organocide® Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of disease problems. Apply as a soil drench or foliar spray (3-4 tsp/ gallon of water) to prevent and attack many fungal problems, including pythium, fusarium and root rot.         Tip: Actinovate Lawn  Garden contains Streptomyces lydicus, a naturally occurring          soil bacterium that is found in healthy soils. When applied as a soil drench or          foliar spray, it establishes itself on plants’ roots and leaves and provides protection          against a wide range of root, stem and foliar diseases. Actinovate is OMRI Listed for use          in organic gardens.</string>
+    <string name="blossomendcur">Choose resistant vegetable varieties whenever possible.         Prevent problems by keeping soil evenly moist and by foliar spraying plants with a kelp or calcium solution.         Adding high levels of calcium  bone meal, oyster shell or gypsum  to the soil at planting time usually prevents this         problem from developing.         A layer of mulch straw, compost, grass         will help conserve soil moisture during the hot, dry days of July and August.          For best results,         combine with a natural surfactant to increase adhesion and spray leaves to the point of run-off.         Mulching plants will help conserve moisture and provide a more uniform water         supply.         Avoid using high nitrogen fertilizers which accelerate vegetative growth         and reduce the uptake of calcium by plants. A large selection of balanced         organic fertilizers are available at Planet Natural.</string>
+    <string name="market_values">Market Values</string>
+    <string name="season_of_cultivation">Harvest season</string>
+
+
+</resources>
